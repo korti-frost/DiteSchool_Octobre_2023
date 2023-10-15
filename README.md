@@ -15,8 +15,7 @@ Découvrir et essayer les différentes façons d'interagir avec AWS
 
 ### Solutions: 
 1)Saisissez "S3" dans la barre de recherche, puis cliquez sur "Créer un compartiment". Attribuez-lui un nom unique et choisissez la région "Paris". Laissez les autres paramètres avec leurs valeurs par défaut. Ensuite, ajoutez un objet dans ce compartiment.
-2) 
-Téléchargez le programme d'installation MSI AWS CLI pour Windows (64 bits) à partir du lien suivant : https://awscli.amazonaws.com/AWSCLIV2.msi
+2) Téléchargez le programme d'installation MSI AWS CLI pour Windows (64 bits) à partir du lien suivant : https://awscli.amazonaws.com/AWSCLIV2.msi
 Une fois le téléchargement terminé, exécutez le programme d'installation.
 Pour vérifier si l'installation s'est bien déroulée, ouvrez le menu Démarrer de Windows, recherchez "cmd" pour ouvrir une fenêtre d'invite de commandes, puis saisissez la commande "aws --version".
 Cliquez sur votre nom dans le menu, puis sélectionnez "Mes autorisations de sécurité" dans le menu déroulant. Créez ensuite une clé d'accès dans la section "Gestion des clés d'accès".
