@@ -13,7 +13,7 @@ Découvrir et essayer les différentes façons d'interagir avec AWS
 2) Installez et configurez l'AWS CLI sur votre ordinateur. Lisez le contenu du compartiment S3.
 3) Écrivez un script simple en utilisant l'un des SDK AWS, par exemple en utilisant le SDK Python Boto3, pour supprimer un objet du compartiment Amazon S3.
 
-###Solutions: 
+### Solutions: 
 1)Saisissez "S3" dans la barre de recherche, puis cliquez sur "Créer un compartiment". Attribuez-lui un nom unique et choisissez la région "Paris". Laissez les autres paramètres avec leurs valeurs par défaut. Ensuite, ajoutez un objet dans ce compartiment.
 2) 
 Téléchargez le programme d'installation MSI AWS CLI pour Windows (64 bits) à partir du lien suivant : https://awscli.amazonaws.com/AWSCLIV2.msi
